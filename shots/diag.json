@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "day": 0.03,
+      "file": "diag_0p03.png",
+      "fps": 23.5,
+      "kmh": 10,
+      "dist": 1,
+      "phase": "Golden Hour",
+      "elev": 8.7,
+      "calls": 378,
+      "tris": 704201,
+      "tex": 36,
+      "geo": 297,
+      "prog": 46,
+      "hdr": {
+        "min": 0.011,
+        "p25": 0.137,
+        "median": 0.332,
+        "p90": 1.709,
+        "p99": 5.179,
+        "max": 9.5,
+        "skyAvg": 1.316,
+        "groundAvg": 0.19
+      },
+      "phys": {
+        "air": false,
+        "y": 22.05,
+        "vy": -0.05,
+        "n": 0,
+        "th": 0.97,
+        "off": 0,
+        "slip": 0,
+        "pitch": -0.084,
+        "roll": -0.029
+      },
+      "post": {
+        "bloomThr": 0.7,
+        "bloomStr": 0.64,
+        "rays": 0.85
+      }
+    }
+  ],
+  "logs": [
+    "[warning] [.WebGL-0x5b7400efde00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels (this message will no longer repeat)"
+  ]
+}

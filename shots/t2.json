@@ -1,0 +1,87 @@
+{
+  "results": [
+    {
+      "day": 0.03,
+      "file": "t2_0p03.png",
+      "fps": 0.5,
+      "kmh": 173,
+      "dist": 363,
+      "phase": "Golden Hour",
+      "elev": 8.8,
+      "calls": 429,
+      "tris": 747949,
+      "tex": 36,
+      "geo": 322,
+      "prog": 47,
+      "hdr": {
+        "min": 0.017,
+        "p25": 0.087,
+        "median": 0.144,
+        "p90": 1.259,
+        "p99": 4.449,
+        "max": 8.86,
+        "skyAvg": 1.103,
+        "groundAvg": 0.094
+      },
+      "phys": {
+        "air": false,
+        "y": 3.55,
+        "vy": -0.41,
+        "n": -34,
+        "th": 1,
+        "off": 1,
+        "slip": 0,
+        "pitch": -0.004,
+        "roll": -0.02
+      },
+      "post": {
+        "bloomThr": 2.35,
+        "bloomStr": 0.63,
+        "rays": 0.85
+      }
+    },
+    {
+      "day": 0.22,
+      "file": "t2_0p22.png",
+      "fps": 0.9,
+      "kmh": 173,
+      "dist": 941,
+      "phase": "Sunset",
+      "elev": 0.4,
+      "calls": 453,
+      "tris": 769853,
+      "tex": 37,
+      "geo": 340,
+      "prog": 47,
+      "hdr": {
+        "min": 0.019,
+        "p25": 0.049,
+        "median": 0.338,
+        "p90": 0.69,
+        "p99": 0.765,
+        "max": 0.84,
+        "skyAvg": 0.587,
+        "groundAvg": 0.093
+      },
+      "phys": {
+        "air": true,
+        "y": 3.35,
+        "vy": -6.94,
+        "n": -34,
+        "th": 1,
+        "off": 1,
+        "slip": 0,
+        "pitch": 0.951,
+        "roll": -0.751
+      },
+      "post": {
+        "bloomThr": 2.349932875,
+        "bloomStr": 0.86,
+        "rays": 0.68
+      }
+    }
+  ],
+  "logs": [
+    "[warning] [.WebGL-0x53e4001b2600]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels (this message will no longer repeat)"
+  ]
+}

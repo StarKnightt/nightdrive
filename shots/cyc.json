@@ -1,0 +1,327 @@
+{
+  "results": [
+    {
+      "day": 0,
+      "file": "cyc_0.png",
+      "fps": 0.7,
+      "kmh": 141,
+      "dist": 209,
+      "phase": "Golden Hour",
+      "elev": 9.5,
+      "calls": 397,
+      "tris": 673341,
+      "tex": 36,
+      "geo": 334,
+      "prog": 48,
+      "hdr": {
+        "min": 0.025,
+        "p25": 0.141,
+        "median": 0.195,
+        "p90": 1.049,
+        "p99": 2.418,
+        "max": 3.23,
+        "skyAvg": 0.743,
+        "groundAvg": 0.163
+      },
+      "phys": {
+        "air": false,
+        "y": 19.99,
+        "vy": -0.64,
+        "n": -0.91,
+        "th": 0,
+        "off": 0,
+        "slip": 0.08,
+        "pitch": -0.001,
+        "roll": 0.021
+      },
+      "post": {
+        "bloomThr": 2.35,
+        "bloomStr": 0.62,
+        "rays": 0.81
+      }
+    },
+    {
+      "day": 0.14,
+      "file": "cyc_0p14.png",
+      "fps": 1.7,
+      "kmh": 122,
+      "dist": 436,
+      "phase": "Golden Hour",
+      "elev": 4.1,
+      "calls": 407,
+      "tris": 552017,
+      "tex": 37,
+      "geo": 342,
+      "prog": 49,
+      "hdr": {
+        "min": 0.016,
+        "p25": 0.081,
+        "median": 0.138,
+        "p90": 0.723,
+        "p99": 1.324,
+        "max": 1.74,
+        "skyAvg": 0.431,
+        "groundAvg": 0.137
+      },
+      "phys": {
+        "air": true,
+        "y": 7.34,
+        "vy": -3.15,
+        "n": 1.07,
+        "th": 1,
+        "off": 0,
+        "slip": 0.05,
+        "pitch": -0.083,
+        "roll": -0.031
+      },
+      "post": {
+        "bloomThr": 2.35,
+        "bloomStr": 0.73,
+        "rays": 1.11
+      }
+    },
+    {
+      "day": 0.26,
+      "file": "cyc_0p26.png",
+      "fps": 0.7,
+      "kmh": 139,
+      "dist": 810,
+      "phase": "Dusk",
+      "elev": -1.5,
+      "calls": 400,
+      "tris": 549945,
+      "tex": 37,
+      "geo": 338,
+      "prog": 49,
+      "hdr": {
+        "min": 0.011,
+        "p25": 0.022,
+        "median": 0.027,
+        "p90": 0.172,
+        "p99": 0.262,
+        "max": 0.41,
+        "skyAvg": 0.124,
+        "groundAvg": 0.024
+      },
+      "phys": {
+        "air": false,
+        "y": 11.02,
+        "vy": 0.67,
+        "n": -1.06,
+        "th": 0,
+        "off": 0,
+        "slip": 0.09,
+        "pitch": 0.026,
+        "roll": 0.023
+      },
+      "post": {
+        "bloomThr": 2.35,
+        "bloomStr": 0.73,
+        "rays": 1.12
+      }
+    },
+    {
+      "day": 0.34,
+      "file": "cyc_0p34.png",
+      "fps": 0.9,
+      "kmh": 96,
+      "dist": 1061,
+      "phase": "Dusk",
+      "elev": -5.8,
+      "calls": 373,
+      "tris": 205140,
+      "tex": 37,
+      "geo": 356,
+      "prog": 49,
+      "hdr": {
+        "min": 0.006,
+        "p25": 0.041,
+        "median": 0.064,
+        "p90": 0.261,
+        "p99": 0.579,
+        "max": 1.08,
+        "skyAvg": 0.164,
+        "groundAvg": 0.064
+      },
+      "phys": {
+        "air": false,
+        "y": 23.51,
+        "vy": 1.07,
+        "n": -2.21,
+        "th": 0,
+        "off": 0,
+        "slip": 0.07,
+        "pitch": 0.036,
+        "roll": -0.012
+      },
+      "post": {
+        "bloomThr": 1.7123507083333334,
+        "bloomStr": 0.88,
+        "rays": 0
+      }
+    },
+    {
+      "day": 0.46,
+      "file": "cyc_0p46.png",
+      "fps": 0.3,
+      "kmh": 107,
+      "dist": 1264,
+      "phase": "Night",
+      "elev": -16.1,
+      "calls": 346,
+      "tris": 226033,
+      "tex": 37,
+      "geo": 348,
+      "prog": 49,
+      "hdr": {
+        "min": 0,
+        "p25": 0.01,
+        "median": 0.018,
+        "p90": 0.426,
+        "p99": 1.349,
+        "max": 2.1,
+        "skyAvg": 0.239,
+        "groundAvg": 0.032
+      },
+      "phys": {
+        "air": false,
+        "y": 20.75,
+        "vy": -0.86,
+        "n": -1.74,
+        "th": 0,
+        "off": 0,
+        "slip": 0.07,
+        "pitch": -0.04,
+        "roll": 0.007
+      },
+      "post": {
+        "bloomThr": 0.7335562811203564,
+        "bloomStr": 0.79,
+        "rays": 0.02
+      }
+    },
+    {
+      "day": 0.62,
+      "file": "cyc_0p62.png",
+      "fps": 0.4,
+      "kmh": 115,
+      "dist": 1490,
+      "phase": "Night",
+      "elev": -21,
+      "calls": 363,
+      "tris": 220772,
+      "tex": 37,
+      "geo": 360,
+      "prog": 49,
+      "hdr": {
+        "min": 0.003,
+        "p25": 0.023,
+        "median": 0.055,
+        "p90": 0.589,
+        "p99": 1.559,
+        "max": 2.66,
+        "skyAvg": 0.327,
+        "groundAvg": 0.065
+      },
+      "phys": {
+        "air": false,
+        "y": 21.22,
+        "vy": -0.19,
+        "n": -1.72,
+        "th": 0,
+        "off": 0,
+        "slip": 0.09,
+        "pitch": 0.002,
+        "roll": 0.021
+      },
+      "post": {
+        "bloomThr": 0.5512023656296297,
+        "bloomStr": 0.76,
+        "rays": 0
+      }
+    },
+    {
+      "day": 0.78,
+      "file": "cyc_0p78.png",
+      "fps": 0.5,
+      "kmh": 139,
+      "dist": 1722,
+      "phase": "Dawn",
+      "elev": -4.5,
+      "calls": 369,
+      "tris": 210150,
+      "tex": 37,
+      "geo": 368,
+      "prog": 49,
+      "hdr": {
+        "min": 0.001,
+        "p25": 0.017,
+        "median": 0.053,
+        "p90": 0.254,
+        "p99": 0.785,
+        "max": 2.42,
+        "skyAvg": 0.187,
+        "groundAvg": 0.031
+      },
+      "phys": {
+        "air": false,
+        "y": 18.57,
+        "vy": 1.19,
+        "n": -1.68,
+        "th": 1,
+        "off": 0,
+        "slip": 0.12,
+        "pitch": -0.042,
+        "roll": 0.035
+      },
+      "post": {
+        "bloomThr": 1.8318249114583336,
+        "bloomStr": 0.89,
+        "rays": 0
+      }
+    },
+    {
+      "day": 0.9,
+      "file": "cyc_0p9.png",
+      "fps": 1.3,
+      "kmh": 103,
+      "dist": 2016,
+      "phase": "Sunrise",
+      "elev": 2.4,
+      "calls": 333,
+      "tris": 208200,
+      "tex": 37,
+      "geo": 348,
+      "prog": 49,
+      "hdr": {
+        "min": 0.027,
+        "p25": 0.111,
+        "median": 0.17,
+        "p90": 0.343,
+        "p99": 0.514,
+        "max": 0.66,
+        "skyAvg": 0.266,
+        "groundAvg": 0.129
+      },
+      "phys": {
+        "air": false,
+        "y": 19.9,
+        "vy": -1.81,
+        "n": 2.07,
+        "th": 0,
+        "off": 0,
+        "slip": 0.11,
+        "pitch": -0.046,
+        "roll": 0.005
+      },
+      "post": {
+        "bloomThr": 2.35,
+        "bloomStr": 0.85,
+        "rays": 0
+      }
+    }
+  ],
+  "logs": [
+    "[warning] [.WebGL-0x395c001b6200]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels (this message will no longer repeat)"
+  ]
+}

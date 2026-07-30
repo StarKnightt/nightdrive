@@ -1,0 +1,210 @@
+{
+  "results": [
+    {
+      "day": 0.03,
+      "file": "run_0p03.png",
+      "fps": 0.4,
+      "kmh": 124,
+      "dist": 95,
+      "phase": "Golden Hour",
+      "elev": 8.8,
+      "tier": "potato",
+      "calls": 265,
+      "tris": 667781,
+      "tex": 36,
+      "geo": 214,
+      "prog": 55,
+      "hdr": {
+        "min": 0.004,
+        "p25": 0.118,
+        "median": 0.229,
+        "p90": 1.42,
+        "p99": 3.389,
+        "max": 8.06,
+        "skyAvg": 1.111,
+        "groundAvg": 0.163
+      },
+      "phys": {
+        "air": false,
+        "y": 20.62,
+        "vy": -0.23,
+        "n": -0.04,
+        "th": 1,
+        "off": 0,
+        "slip": 0.01,
+        "pitch": -0.038,
+        "roll": 0.001
+      },
+      "post": {
+        "bloomThr": 3.3,
+        "bloomStr": 0.32,
+        "rays": 0.35
+      }
+    },
+    {
+      "day": 0.22,
+      "file": "run_0p22.png",
+      "fps": 0.3,
+      "kmh": 115,
+      "dist": 315,
+      "phase": "Sunset",
+      "elev": 0.4,
+      "tier": "potato",
+      "calls": 264,
+      "tris": 748263,
+      "tex": 38,
+      "geo": 214,
+      "prog": 55,
+      "hdr": {
+        "min": 0.002,
+        "p25": 0.048,
+        "median": 0.094,
+        "p90": 0.469,
+        "p99": 1.316,
+        "max": 2.19,
+        "skyAvg": 0.36,
+        "groundAvg": 0.073
+      },
+      "phys": {
+        "air": false,
+        "y": 15.69,
+        "vy": -2.08,
+        "n": 0.16,
+        "th": 0,
+        "off": 0,
+        "slip": 0,
+        "pitch": -0.015,
+        "roll": -0.015
+      },
+      "post": {
+        "bloomThr": 3.3,
+        "bloomStr": 0.32,
+        "rays": 0.36
+      }
+    },
+    {
+      "day": 0.3,
+      "file": "run_0p3.png",
+      "fps": 0.2,
+      "kmh": 121,
+      "dist": 460,
+      "phase": "Dusk",
+      "elev": -3.4,
+      "tier": "potato",
+      "calls": 263,
+      "tris": 681665,
+      "tex": 38,
+      "geo": 238,
+      "prog": 55,
+      "hdr": {
+        "min": 0.001,
+        "p25": 0.009,
+        "median": 0.017,
+        "p90": 0.076,
+        "p99": 0.146,
+        "max": 0.49,
+        "skyAvg": 0.052,
+        "groundAvg": 0.013
+      },
+      "phys": {
+        "air": false,
+        "y": 6.32,
+        "vy": -1.29,
+        "n": 1.53,
+        "th": 0.96,
+        "off": 0,
+        "slip": 0.01,
+        "pitch": -0.065,
+        "roll": -0.025
+      },
+      "post": {
+        "bloomThr": 3.2978195927757477,
+        "bloomStr": 0.86,
+        "rays": 1.47
+      }
+    },
+    {
+      "day": 0.5,
+      "file": "run_0p5.png",
+      "fps": 0.2,
+      "kmh": 157,
+      "dist": 693,
+      "phase": "Night",
+      "elev": -17.2,
+      "tier": "potato",
+      "calls": 251,
+      "tris": 777267,
+      "tex": 38,
+      "geo": 237,
+      "prog": 55,
+      "hdr": {
+        "min": 0.001,
+        "p25": 0.01,
+        "median": 0.013,
+        "p90": 0.04,
+        "p99": 0.64,
+        "max": 2.44,
+        "skyAvg": 0.071,
+        "groundAvg": 0.012
+      },
+      "phys": {
+        "air": false,
+        "y": 9.43,
+        "vy": 0.28,
+        "n": -0.19,
+        "th": 0.44,
+        "off": 0,
+        "slip": 0.01,
+        "pitch": 0.018,
+        "roll": 0
+      },
+      "post": {
+        "bloomThr": 2.9084456092672544,
+        "bloomStr": 0.84,
+        "rays": 0.71
+      }
+    },
+    {
+      "day": 0.82,
+      "file": "run_0p82.png",
+      "fps": 0.5,
+      "kmh": 157,
+      "dist": 940,
+      "phase": "Dawn",
+      "elev": -1.6,
+      "tier": "potato",
+      "calls": 186,
+      "tris": 325063,
+      "tex": 38,
+      "geo": 207,
+      "prog": 55,
+      "hdr": {
+        "min": 0.002,
+        "p25": 0.021,
+        "median": 0.036,
+        "p90": 0.186,
+        "p99": 0.281,
+        "max": 0.49,
+        "skyAvg": 0.124,
+        "groundAvg": 0.03
+      },
+      "phys": {
+        "air": false,
+        "y": 16.48,
+        "vy": 0.03,
+        "n": 0.26,
+        "th": 0.44,
+        "off": 0,
+        "slip": 0.07,
+        "pitch": 0.054,
+        "roll": 0.014
+      },
+      "post": {
+        "bloomThr": 3.0420174953028827,
+        "bloomStr": 0.88,
+        "rays": 0.9
+      }
+    }
+  ],
+  "logs": []
+}

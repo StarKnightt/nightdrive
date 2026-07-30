@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Throwaway debug probes (scratch diagnostics, not the real test harness)
+# Keeps: assert-drive.mjs, harness.mjs, tame.mjs, drive.mjs, cockpitshot.mjs,
+#        bloomcheck.mjs, foliagecheck.mjs, perf.mjs, and the rest of the suite.
+_*.mjs
+
+# Throwaway debug screenshots (hide-one-object bisection dumps)
+shots/_dbg-*.png
+
+# Playwright caches / artifacts
+.playwright/
+ms-playwright/
+playwright-report/
+playwright/.cache/
+test-results/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS cruft
+.DS_Store
+Thumbs.db

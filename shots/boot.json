@@ -1,0 +1,19 @@
+{
+  "results": [
+    {
+      "day": 0.03,
+      "file": "boot_0p03.png",
+      "fps": 22,
+      "kmh": 6,
+      "dist": 0,
+      "phase": "Golden Hour",
+      "elev": 8.7,
+      "calls": 1,
+      "tris": 1,
+      "tex": 36,
+      "geo": 295,
+      "programs": 46
+    }
+  ],
+  "logs": []
+}

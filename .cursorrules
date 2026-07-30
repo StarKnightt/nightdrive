@@ -1,0 +1,9 @@
+# Standing rules for this project
+
+- The user actively games and works on this machine WHILE you develop. Never saturate the CPU or GPU.
+- Headless test browsers (playwright + swiftshader) render on the CPU. Every test script must import ./tame.mjs (already wired into drive/car/boot/probe-streak/perf/shoot .mjs — keep that import when editing, and add it to any NEW script that launches chromium). Alternatively launch via lowprio.cmd.
+- Run test/screenshot scripts sequentially, never several in parallel.
+- Kill or close headless browsers as soon as a test run finishes; never leave one running idle.
+- Wire tame.mjs's guard()/finish() into every test script: guard(browser, server) right after creating them, finish() instead of manual close at the end. The user has had to End Task hung node processes — a crashed script must never leave a server socket or browser alive.
+- The game itself must stay frame-capped (60fps default) and must not start at the highest quality tier — see FEEDBACK.md section 0.
+- FEEDBACK.md contains the user's prioritized requirements. Re-read it after major changes.

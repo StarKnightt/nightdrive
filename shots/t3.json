@@ -1,0 +1,127 @@
+{
+  "results": [
+    {
+      "day": 0.03,
+      "file": "t3_0p03.png",
+      "fps": 0.2,
+      "kmh": 123,
+      "dist": 905,
+      "phase": "Golden Hour",
+      "elev": 8.8,
+      "calls": 475,
+      "tris": 790205,
+      "tex": 36,
+      "geo": 333,
+      "prog": 47,
+      "hdr": {
+        "min": 0.059,
+        "p25": 0.098,
+        "median": 0.345,
+        "p90": 1.296,
+        "p99": 4.814,
+        "max": 8.81,
+        "skyAvg": 1.158,
+        "groundAvg": 0.131
+      },
+      "phys": {
+        "air": false,
+        "y": 14.37,
+        "vy": 2.62,
+        "n": -1.89,
+        "th": 0,
+        "off": 0,
+        "slip": 0.12,
+        "pitch": 0.061,
+        "roll": 0.028
+      },
+      "post": {
+        "bloomThr": 2.35,
+        "bloomStr": 0.63,
+        "rays": 0.85
+      }
+    },
+    {
+      "day": 0.22,
+      "file": "t3_0p22.png",
+      "fps": 0.8,
+      "kmh": 103,
+      "dist": 1641,
+      "phase": "Sunset",
+      "elev": 0.4,
+      "calls": 434,
+      "tris": 746314,
+      "tex": 37,
+      "geo": 321,
+      "prog": 47,
+      "hdr": {
+        "min": 0.012,
+        "p25": 0.058,
+        "median": 0.225,
+        "p90": 0.601,
+        "p99": 0.705,
+        "max": 0.78,
+        "skyAvg": 0.515,
+        "groundAvg": 0.09
+      },
+      "phys": {
+        "air": false,
+        "y": 18.3,
+        "vy": -0.58,
+        "n": -1.82,
+        "th": 0,
+        "off": 0,
+        "slip": 0.07,
+        "pitch": -0.018,
+        "roll": 0.002
+      },
+      "post": {
+        "bloomThr": 2.349983171875,
+        "bloomStr": 0.86,
+        "rays": 0
+      }
+    },
+    {
+      "day": 0.5,
+      "file": "t3_0p5.png",
+      "fps": 0.6,
+      "kmh": 43,
+      "dist": 2442,
+      "phase": "Night",
+      "elev": -17.2,
+      "calls": 369,
+      "tris": 718264,
+      "tex": 37,
+      "geo": 306,
+      "prog": 47,
+      "hdr": {
+        "min": 0.001,
+        "p25": 0.079,
+        "median": 2.689,
+        "p90": 15.609,
+        "p99": 19.176,
+        "max": 21.48,
+        "skyAvg": 10.465,
+        "groundAvg": 0.663
+      },
+      "phys": {
+        "air": false,
+        "y": -1.54,
+        "vy": -0.73,
+        "n": 34,
+        "th": 1,
+        "off": 1,
+        "slip": 1,
+        "pitch": -0.06,
+        "roll": -0.08
+      },
+      "post": {
+        "bloomThr": 0.6525844290370371,
+        "bloomStr": 0.78,
+        "rays": 0
+      }
+    }
+  ],
+  "logs": [
+    "[warning] [.WebGL-0x210c00ed0c00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels (this message will no longer repeat)"
+  ]
+}
