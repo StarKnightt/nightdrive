@@ -122,3 +122,5 @@ was pulled out and is waiting to go back in.
 
 `PROGRESS.md` is the iteration log and `FEEDBACK.md` is the set of quality and
 performance requirements the build is being held against.
+
+☕ like it? [buy me a coffee](https://buymeacoffee.com/prasenx) or [sponsor on github](https://github.com/sponsors/StarKnightt)
